@@ -1,0 +1,5 @@
+i = 0
+SN = (i > 0)
+print(SN)
+SN2 = (i == 0)
+print(SN2)
