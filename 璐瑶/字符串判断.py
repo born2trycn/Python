@@ -1,0 +1,15 @@
+name="魏无羡"
+if(name=="魏无羡"):
+    print("魏婴")
+if(name=="江晚吟"):
+    print("江澄")
+if(name=="蓝忘机"):
+    print("蓝湛")
+if(name=="蓝曦臣"):
+    print("泽芜君")
+if(name=="江厌离"):
+    print("师姐")
+if(name=="金子轩"):
+    print("金孔雀")
+if(name=="墨香铜臭"):
+    print("魔道祖师")
